@@ -2,5 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /terima-kasih.html
 
-# Sitemap
 Sitemap: https://beli-ulasan.com/sitemap.xml
